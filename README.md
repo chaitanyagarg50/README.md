@@ -1,6 +1,6 @@
 # README.md
 <h1 align= "center"> Hi there 👋, I am Chaitanya Garg</h1>
-<h2 align = "center">First Year B.Tech CSE student at SGTU, Gurugram</h2>
+<h2 align = "center">First Year B.Tech CSE (AIML) student at SGTU, Gurugram</h2>
 <div align="middle">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
 </div>
