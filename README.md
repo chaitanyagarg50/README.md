@@ -1,6 +1,6 @@
 # README.md
-<h1 align= "center"> Hi there 👋, I am Yashica Garg</h1>
-<h2 align = "center">Final Year B.Tech CSE student at IGDTUW, Delhi</h2>
+<h1 align= "center"> Hi there 👋, I am Chaitanya Garg</h1>
+<h2 align = "center">First Year B.Tech CSE student at SGTU, Gurugram</h2>
 <div align="middle">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
 </div>
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML,CSS,C++,C,Java,MySQL**
  
-- 📫 How to reach me: *yashicagarg50@gmail.com* 
+- 📫 How to reach me: *chaitanyagarg50@gmail.com* 
 
-- 😄 Pronouns: **She/her** 
+- 😄 Pronouns: **He/him** 
 
 - ⚡ Fun fact: **Always sleepy** 
  
