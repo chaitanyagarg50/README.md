@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Development, DSA, Reinforcement Learning.** 
 
-- 💬 Ask me about **HTML,CSS,C++,C,Java,MySQL**
+- 💬 Ask me about **HTML,Python,Java,MySQL**
  
 - 📫 How to reach me: *chaitanyagarg50@gmail.com* 
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **Always sleepy** 
  
 ###  Connect with me :
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yashica-garg50//"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://www.instagram.com/https://www.instagram.com/___whyj.i_//"><img src='https://user-images.githubusercontent.com/97343839/210264169-35426e22-92c9-4069-a993-70433e7c401b.png' alt='instagram' height='40'></a><a href="https://twitter.com/https://twitter.com/squekysquirrel"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>  
+<a href="https://www.linkedin.com/in/chaitanya-garg-36b8a42bb"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://www.instagram.com/https://www.instagram.com/___whyj.i_//"><img src='https://user-images.githubusercontent.com/97343839/210264169-35426e22-92c9-4069-a993-70433e7c401b.png' alt='instagram' height='40'></a><a href="https://twitter.com/https://twitter.com/squekysquirrel"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>  
 
 ###  Languages and Tools :
 <div>
