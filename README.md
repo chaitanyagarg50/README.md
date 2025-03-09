@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
 </div>
 
-- 🌱 I’m currently learning **Full stack Web Development, DSA, Reinforcement Learning.** 
+- 🌱 I’m currently learning **AI Software Engineering, DSA, Reinforcement Learning.** 
 
 - 💬 Ask me about **HTML,Python,Java,MySQL**
  
