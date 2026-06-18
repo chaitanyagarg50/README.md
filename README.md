@@ -1,146 +1,110 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=210&section=header&text=Chaitanya%20Garg&desc=AI%20%2F%20ML%20·%20B.Tech%20CSE%20·%20SGT%20University%2C%20Gurugram&fontSize=56&descSize=18&fontAlignY=38&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:1e0652,100:09001f&height=200&section=header&text=Chaitanya+Garg&desc=CS+%26+AI%2FML+·+SGT+University+·+Gurugram&fontSize=52&descSize=17&fontAlignY=38&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch+%F0%9F%A4%96;Deep+Learning+%E2%80%A2+Transformers+%E2%80%A2+Computer+Vision;Always+learning%2C+always+shipping;Open+to+collabs+%E2%80%94+chaitanyagarg50%40gmail.com)](https://git.io/typing-svg)
-
-</div>
+<sub><code>B.Tech CSE (AI/ML)  ·  SGT University  ·  Class of 2026  ·  He/Him</code></sub>
 
 <br/>
 
-<table align="center" width="92%">
-<tr>
-<td valign="top" width="56%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)
+[![Email](https://img.shields.io/badge/chaitanyagarg50%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
+[![Twitter](https://img.shields.io/badge/@squekysquirrel-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/squekysquirrel)
+[![Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&label=views&color=7c3aed&style=flat-square)](https://github.com/chaitanyagarg50)
 
-### Hey, I'm Chaitanya 👋
-
-Third-year CSE student at SGT University specializing in **AI/ML**. I build things that learn.
-
-My focus is on **neural network architectures**, **large language models**, and turning research papers into working code.
-
-- 🎓 B.Tech CSE (AI/ML) · SGT University · Class of 2026
-- 🔬 Exploring **Transformers**, **LLMs** & **Computer Vision**
-- 🏗️ Side projects with **PyTorch**, **Firebase** & **MySQL**
-- 🎯 2025 — land a meaningful open-source AI contribution
-- 📍 Gurugram, India · He/Him
-- 📫 chaitanyagarg50@gmail.com
-
-</td>
-<td valign="top" width="44%" align="center">
-
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+Third-year CSE student at SGT University, focused on **AI and machine learning**. I spend most of my time training models, reading papers, and figuring out why my loss curves look the way they do.
 
-> *Fill in your actual projects — even course work and experiments count.*
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[Project Name](https://github.com/chaitanyagarg50)**
-Short description of what it does and what makes it interesting. One or two sentences.
-`PyTorch` `Transformers` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Name](https://github.com/chaitanyagarg50)**
-Short description of what it does and what makes it interesting. One or two sentences.
-`scikit-learn` `Pandas` `Jupyter`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Project Name](https://github.com/chaitanyagarg50)**
-Short description of what it does and what makes it interesting. One or two sentences.
-`Firebase` `JavaScript` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Name](https://github.com/chaitanyagarg50)**
-Short description, or note it's a WIP / research exploration.
-`TensorFlow` `OpenCV` `Python`
-
-</td>
-</tr>
-</table>
+Particularly interested in **large language models** — how transformers store and retrieve knowledge, and what breaks when you push them past their training distribution. Also drawn to **computer vision**, especially where the two fields meet in vision-language models. Ask me about sci-fi too.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Now
 
-**Languages**
+*What I'm actually focused on this month.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 🔭 **Building** — `[your current project — be specific]`
+- 🌱 **Learning** — Vision Transformers (ViT), RAG pipelines, fine-tuning workflows
+- 📖 **Reading** — *Attention Is All You Need* · following recent LLM work on arXiv
+- 🎯 **Goal** — a real open-source AI contribution before the end of 2025
 
-**AI · ML · Data Science**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+## 🚀 Projects
 
-**Databases · Backend**
+> Replace these with real repos — experiments, coursework, and half-finished ideas all count.
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| | Project | What it does | Stack |
+|:--:|---------|-------------|-------|
+| 🧠 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `PyTorch` `Python` |
+| 📊 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `scikit-learn` `Pandas` |
+| 🌐 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `Firebase` `JavaScript` |
+| 🔬 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `TensorFlow` `OpenCV` |
 
-**Tools · Platforms**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## 🛠️ Stack
+
+<table>
+<tr>
+<td align="center" width="110"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI · ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend · DB</b></td>
+<td>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="162" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="158" alt="Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="162" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="158" alt="Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyagarg50&theme=midnight-purple&hide_border=true" height="162" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyagarg50&theme=midnight-purple&hide_border=true" height="158" alt="Streak"/>
 </div>
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/squekysquirrel)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyagarg50)
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&label=Profile+Views&color=7c3aed&style=flat-square)
-
-<br/>
 <sub><i>"The best way to predict the future is to invent it." — Alan Kay</i></sub>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:1e0652,100:09001f&height=100&section=footer"/>
