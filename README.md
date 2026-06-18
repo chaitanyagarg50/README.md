@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/@squekysquirrel-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/squekysquirrel)
+[![Twitter / X](https://img.shields.io/badge/@ChaitanyaG98718-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ChaitanyaG98718)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&label=views&color=7c3aed&style=flat-square)
 
