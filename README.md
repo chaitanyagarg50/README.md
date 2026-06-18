@@ -32,7 +32,6 @@ chaitanya = {
     "currently": ["Transformers", "Computer Vision", "LLM fine-tuning"],
     "building":  ["AI side-projects", "Firebase apps", "MySQL backends"],
     "goal_2025": "Ship an open-source AI project worth starring ⭐",
-    "fun_fact":  "I explain neural nets better after reading sci-fi 🚀",
     "reach_me":  "chaitanyagarg50@gmail.com",
 }
 ```
@@ -60,14 +59,6 @@ chaitanya = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyagarg50&theme=midnight-purple&hide_border=true" height="165" alt="Streak"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </div>
 
 ---
