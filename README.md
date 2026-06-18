@@ -1,47 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:1e0652,100:09001f&height=200&section=header&text=Chaitanya+Garg&desc=CS+%26+AI%2FML+·+SGT+University+·+Gurugram&fontSize=52&descSize=17&fontAlignY=38&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="header.svg" alt="Chaitanya Garg — CS &amp; AI/ML"/>
 
 <div align="center">
 
-<sub><code>B.Tech CSE (AI/ML)  ·  SGT University  ·  Class of 2026  ·  He/Him</code></sub>
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)
-[![Email](https://img.shields.io/badge/chaitanyagarg50%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
-[![Twitter](https://img.shields.io/badge/@squekysquirrel-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/squekysquirrel)
-[![Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&label=views&color=7c3aed&style=flat-square)](https://github.com/chaitanyagarg50)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
+[![Twitter / X](https://img.shields.io/badge/@squekysquirrel-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/squekysquirrel)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&label=views&color=7c3aed&style=flat-square)
 
 </div>
 
 ---
 
-Third-year CSE student at SGT University, focused on **AI and machine learning**. I spend most of my time training models, reading papers, and figuring out why my loss curves look the way they do.
+CS student at SGT University (Class of 2026), deep in AI/ML. I'm most interested in the mechanics of large language models — how transformers store and retrieve knowledge, how attention shapes representations, and what breaks when you push them past their training distribution. I also spend time in **computer vision**, especially where it meets language.
 
-Particularly interested in **large language models** — how transformers store and retrieve knowledge, and what breaks when you push them past their training distribution. Also drawn to **computer vision**, especially where the two fields meet in vision-language models. Ask me about sci-fi too.
-
----
-
-## ⚡ Now
-
-*What I'm actually focused on this month.*
-
-- 🔭 **Building** — `[your current project — be specific]`
-- 🌱 **Learning** — Vision Transformers (ViT), RAG pipelines, fine-tuning workflows
-- 📖 **Reading** — *Attention Is All You Need* · following recent LLM work on arXiv
-- 🎯 **Goal** — a real open-source AI contribution before the end of 2025
+Currently turning research papers into working code, one training run at a time. Ask me about sci-fi too — the kind that takes intelligence seriously.
 
 ---
 
 ## 🚀 Projects
 
-> Replace these with real repos — experiments, coursework, and half-finished ideas all count.
+> Fill these in with real repos. Experiments, coursework, and half-finished ideas all count.
 
 | | Project | What it does | Stack |
 |:--:|---------|-------------|-------|
-| 🧠 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `PyTorch` `Python` |
-| 📊 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `scikit-learn` `Pandas` |
-| 🌐 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `Firebase` `JavaScript` |
-| 🔬 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves or the thing it explores | `TensorFlow` `OpenCV` |
+| 🧠 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves | `PyTorch` `Python` |
+| 📊 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves | `scikit-learn` `Pandas` |
+| 🌐 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves | `Firebase` `JavaScript` |
+| 🔬 | **[Project Name](https://github.com/chaitanyagarg50)** | One sentence on the problem it solves | `TensorFlow` `OpenCV` |
+
+---
+
+## ⚡ Now
+
+*What I'm actually working on — update this monthly.*
+
+- 🔭 **Building** — `[your current project]`
+- 🌱 **Learning** — Vision Transformers (ViT), RAG pipelines, fine-tuning workflows
+- 📖 **Reading** — *Attention Is All You Need* · recent work on arXiv
+- 🎯 **Goal** — a real open-source AI contribution by end of 2025
 
 ---
 
@@ -92,13 +89,12 @@ Particularly interested in **large language models** — how transformers store 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="158" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="158"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="158" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="158"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyagarg50&theme=midnight-purple&hide_border=true" height="158" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyagarg50&theme=midnight-purple&hide_border=true" height="158"/>
 </div>
 
 ---
@@ -106,5 +102,3 @@ Particularly interested in **large language models** — how transformers store 
 <div align="center">
 <sub><i>"The best way to predict the future is to invent it." — Alan Kay</i></sub>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:1e0652,100:09001f&height=100&section=footer"/>
