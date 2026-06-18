@@ -1,19 +1,13 @@
 # README.md
 <h1 align= "center"> Hi there 👋, I am Chaitanya Garg</h1>
-<h2 align = "center">Second Year B.Tech CSE AIML student at SGTU, Gurugram</h2>
+<h2 align = "center">Third Year B.Tech CSE AIML student at SGT University, Gurugram</h2>
 <div align="middle">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
 </div>
-
-- 🌱 I’m currently learning **AI Software Engineering, DSA, Reinforcement Learning.** 
-
-- 💬 Ask me about **Python,Java,MySQL,Frontend Development**
  
 - 📫 How to reach me: *chaitanyagarg50@gmail.com* 
 
 - 😄 Pronouns: **He/him** 
-
-- ⚡ Fun fact: **Always sleepy** 
  
 ###  Connect with me :
 <a href="https://www.linkedin.com/in/chaitanya-garg-36b8a42bb"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://twitter.com/https://twitter.com/squekysquirrel"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>  
