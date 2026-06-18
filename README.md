@@ -10,8 +10,6 @@
 - 😄 Pronouns: **He/him** 
  
 ###  Connect with me :
-<a href="https://www.linkedin.com/in/chaitanya-garg-36b8a42bb"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://twitter.com/https://twitter.com/squekysquirrel"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>
+<a href="https://twitter.com/https://twitter.com/squekysquirrel"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
