@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/@squekysquirrel-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/squekysquirrel)
+[![Twitter](https://img.shields.io/badge/@ChaitanyaG98718-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ChaitanyaG98718)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyagarg50)
