@@ -75,6 +75,6 @@ I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.8
 ---
 
 <p align="center">
-  <i>Open to collaborations, internships, and interesting AI/ML projects!</i><br/>
+  <i>Open to internships!</i><br/>
   📬 <a href="mailto:chaitanyagarg50@gmail.com">chaitanyagarg50@gmail.com</a>
 </p>
