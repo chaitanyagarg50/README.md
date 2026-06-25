@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Chaitanya%20Garg&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20Products&descAlignY=57&descSize=18&descColor=c9b8ff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=a78bfa&center=true&vCenter=true&width=580&lines=B.Tech+AI+%26+ML+%40+SGT+University+%E2%80%94+GPA%3A+8.83%2F10;Building+intelligent+systems+from+raw+data+%F0%9F%A7%A0;One+of+the+few+ML+engineers+who+speaks+Deutsch+%F0%9F%87%A9%F0%9F%87%AA;Actively+seeking+ML+%2F+Data+Science+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=a78bfa&center=true&vCenter=true&width=580&lines=B.Tech+(CSE) AI+%26+ML+%40+SGT+University+%E2%80%94+GPA%3A+8.83%2F10;Building+intelligent+systems+from+raw+data+%F0%9F%A7%A0;One+of+the+few+ML+engineers+who+speaks+Deutsch+%F0%9F%87%A9%F0%9F%87%AA;Actively+seeking+ML+%2F+Data+Science+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
