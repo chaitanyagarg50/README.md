@@ -140,8 +140,6 @@ open_to:
   <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-*"The best model is not the most complex one — it's the one that actually ships."*
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
