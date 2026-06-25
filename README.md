@@ -13,7 +13,7 @@
 I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.83/10)
 
 - 🤖 Focused on **Machine Learning**, **Data Science**, and **AI-powered products**
-- 🌍 Speak **English**, **Hindi**, and **German (B1)**
+- 🌍 Speak **German (B1)**, **Hindi** and **English** 
 
 ---
 
