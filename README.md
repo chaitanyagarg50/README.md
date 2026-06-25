@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.83/10), passionate about building intelligent systems, data-driven products, and full-stack AI applications.
+I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.83/10)
 
 - 🤖 Focused on **Machine Learning**, **Data Science**, and **AI-powered products**
 - 🌍 Speak **English**, **Hindi**, and **German (B1)**
