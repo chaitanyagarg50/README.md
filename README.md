@@ -34,7 +34,7 @@ I'm a **B.Tech CSE (AI & ML)** student who got hooked on machine learning and ne
 
 **🏛️ SGT University, Gurugram** — GPA **8.83 / 10**  
 **🎯 Seeking** — ML / Data Science / AI internship  
-**🌍 Languages** — Hindi · English · **German (B1)**  
+**🌍 Languages** — · **German (B1)** · Hindi · English
 **📬 Reach me** — chaitanyagarg50@gmail.com
 
 </td>
@@ -48,7 +48,6 @@ Data Analysis   ██████████░░  Strong
 Machine Learning████████░░░░  Growing
 SQL             ███████░░░░░  Solid
 Deep Learning   █████░░░░░░░  Exploring
-Deutsch         ████░░░░░░░░  B1
 ```
 
 </td>
@@ -82,63 +81,6 @@ Deutsch         ████░░░░░░░░  B1
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
-## 🚀 Projects
-
-> ⚠️ **Fill these in** — a good project description answers three things: *what it does, how it works, and why it matters.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [Project Title](#)
-**What:** One-line hook — what does this solve?  
-**How:** Scikit-Learn · Pandas · (your model here)  
-**Result:** Accuracy / metric / impact achieved  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 [Project Title](#)
-**What:** One-line hook — what does this solve?  
-**How:** Pandas · NumPy · Matplotlib  
-**Result:** Accuracy / metric / impact achieved  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [Project Title](#)
-**What:** One-line hook — what does this solve?  
-**How:** SQL · Jupyter · Seaborn  
-**Result:** Accuracy / metric / impact achieved  
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 [Project Title](#)
-**What:** One-line hook — what does this solve?  
-**How:** NumPy · Matplotlib · (your stack)  
-**Result:** Accuracy / metric / impact achieved  
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
