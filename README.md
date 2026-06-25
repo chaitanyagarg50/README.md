@@ -34,7 +34,7 @@ I'm a **B.Tech CSE (AI & ML)** student who got hooked on machine learning and ne
 
 **🏛️ SGT University, Gurugram** — GPA **8.83 / 10**  
 **🎯 Seeking** — ML / Data Science / AI internship  
-**🌍 Languages** — · **German (B1)** · Hindi · English
+**🌍 Languages** — · **German (B1)** · Hindi · English  
 **📬 Reach me** — chaitanyagarg50@gmail.com
 
 </td>
