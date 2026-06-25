@@ -99,10 +99,6 @@ Deep Learning   █████░░░░░░░  Exploring
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4"/>
-</div>
-
 ---
 
 <div align="center">
