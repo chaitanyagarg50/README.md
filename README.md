@@ -105,30 +105,6 @@ Deep Learning   █████░░░░░░░  Exploring
 
 ---
 
-## 🌱 Currently
-
-```yaml
-status:       Actively seeking ML / AI internships
-institution:  SGT University, Gurugram (B.Tech CSE, AI & ML)
-gpa:          8.83 / 10
-
-learning:
-  - Transformers and attention mechanisms
-  - NLP with HuggingFace
-  - ML model deployment and MLOps basics
-
-reading:      "Hands-On Machine Learning — Aurélien Géron"
-side_project: "something brewing... 🚧"
-
-open_to:
-  - Internship opportunities (ML / Data Science / AI)
-  - Open source contributions
-  - Project collaborations
-  - Talking about language, ML, and everything in between
-```
-
----
-
 <div align="center">
 
 **💼 Hire me · 🤝 Collaborate · ☕ Just say Hallo**
