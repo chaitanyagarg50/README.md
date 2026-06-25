@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech CSE (AI & ML)** student who got hooked on machine learning and never looked back. My edge? I combine solid ML foundations with a genuine love for languages — I've trained models in Python and held conversations auf Deutsch, and I think both make me a sharper engineer.
+I'm a **B.Tech CSE (AI & ML)** student.
 
 **🏛️ SGT University, Gurugram** — GPA **8.83 / 10**  
 **🎯 Seeking** — ML / Data Science / AI internship  
