@@ -17,9 +17,9 @@
 ```
 // My story in the languages I speak
 
-/* English */   I turn messy data into decisions that make sense.
-/* हिंदी  */   मैं डेटा से ऐसी कहानियाँ निकालता हूँ जो बदलाव लाएँ।
 /* Deutsch */   Ich baue KI-Systeme, die echte Probleme lösen.
+/* हिंदी  */   मैं डेटा से ऐसी कहानियाँ निकालता हूँ जो बदलाव लाएँ।
+/* English */   I turn messy data into decisions that make sense.
 ```
 
 ---
