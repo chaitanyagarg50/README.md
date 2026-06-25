@@ -1,144 +1,205 @@
-<!-- Header Wave Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chaitanya%20Garg&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descAlignY=57&descSize=20" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Chaitanya%20Garg&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20Products&descAlignY=57&descSize=18&descColor=c9b8ff" />
 
-<!-- Animated Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=540&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Passionate+about+Machine+Learning;Data+Science+%26+Analytics+Enthusiast;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=a78bfa&center=true&vCenter=true&width=580&lines=B.Tech+AI+%26+ML+%40+SGT+University+%E2%80%94+GPA%3A+8.83%2F10;Building+intelligent+systems+from+raw+data+%F0%9F%A7%A0;One+of+the+few+ML+engineers+who+speaks+Deutsch+%F0%9F%87%A9%F0%9F%87%AA;Actively+seeking+ML+%2F+Data+Science+internships+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<!-- Contact + Profile Views -->
-<div align="center">
-  <a href="mailto:chaitanyagarg50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/chaitanyagarg50">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/chaitanyagarg50">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge&color=blueviolet&label=Profile+Views" />
-</div>
+<p align="center">
+  <a href="mailto:chaitanyagarg50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/chaitanyagarg50"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/chaitanyagarg50"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
+</p>
 
 ---
+
+<!-- Signature element — unique multilingual identity -->
+```
+// My story in the languages I speak
+
+/* English */   I turn messy data into decisions that make sense.
+/* हिंदी  */   मैं डेटा से ऐसी कहानियाँ निकालता हूँ जो बदलाव लाएँ।
+/* Deutsch */   Ich baue KI-Systeme, die echte Probleme lösen.
+```
+
+---
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ## 🧑‍💻 About Me
 
-> *"Turning data into decisions, one model at a time."*
+I'm a **B.Tech CSE (AI & ML)** student who got hooked on machine learning and never looked back. My edge? I combine solid ML foundations with a genuine love for languages — I've trained models in Python and held conversations auf Deutsch, and I think both make me a sharper engineer.
 
-I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** with a GPA of **8.83/10**, passionate about building intelligent systems that solve real-world problems. I thrive at the intersection of machine learning research and practical product development.
+**🏛️ SGT University, Gurugram** — GPA **8.83 / 10**  
+**🎯 Seeking** — ML / Data Science / AI internship  
+**🌍 Languages** — Hindi · English · **German (B1)**  
+**📬 Reach me** — chaitanyagarg50@gmail.com
 
-- 🎓 **Degree:** B.Tech in Computer Science (AI & ML specialization)
-- 🤖 **Focus Areas:** Machine Learning · Data Science · AI-Powered Products
-- 🌍 **Languages:** German (B1) · Hindi · English
-- 📬 **Contact:** [chaitanyagarg50@gmail.com](mailto:chaitanyagarg50@gmail.com)
-- 🚀 **Status:** Actively seeking **internships** in ML / Data Science / AI
+</td>
+<td valign="top" width="42%">
 
----
+## 📡 Signal Strength
 
-## ⚡ At a Glance
+```text
+Python          ████████████  ⚡ Primary
+Data Analysis   ██████████░░  Strong
+Machine Learning████████░░░░  Growing
+SQL             ███████░░░░░  Solid
+Deep Learning   █████░░░░░░░  Exploring
+Deutsch         ████░░░░░░░░  B1
+```
 
-| | |
-|:---|:---|
-| 🎯 **Current Focus** | ML model building & end-to-end AI pipelines |
-| 📚 **Learning** | Deep Learning · NLP · Model Deployment |
-| 🏆 **GPA** | 8.83 / 10 |
-| 🌍 **Speaks** | German (B1) · Hindi · English |
-| 💡 **Fun Fact** | I debug code in 3 human languages 😄 |
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>SQL</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub></td>
+  </tr>
+</table>
 
-### 📦 Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**ML / Data Science:**&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-### 🧰 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
----
-
-## 🌱 Currently Exploring
-
-```python
-current_interests = {
-    "Deep Learning":    ["CNNs", "RNNs", "Transformers"],
-    "NLP":              ["Text Classification", "Sentiment Analysis"],
-    "MLOps":            ["Model Deployment", "Pipeline Automation"],
-    "Certifications":   ["Working towards ML specialization 🎯"]
-}
-```
+**On the radar:**&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> *Add your best projects here — each one is a story of what you can build!*
+> ⚠️ **Fill these in** — a good project description answers three things: *what it does, how it works, and why it matters.*
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| 🔗 [Project Name](#) | Short description of what it does and its impact | Python · Scikit-Learn |
-| 🔗 [Project Name](#) | Short description of what it does and its impact | Pandas · Matplotlib |
-| 🔗 [Project Name](#) | Short description of what it does and its impact | SQL · Jupyter |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Project Title](#)
+**What:** One-line hook — what does this solve?  
+**How:** Scikit-Learn · Pandas · (your model here)  
+**Result:** Accuracy / metric / impact achieved  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 [Project Title](#)
+**What:** One-line hook — what does this solve?  
+**How:** Pandas · NumPy · Matplotlib  
+**Result:** Accuracy / metric / impact achieved  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Project Title](#)
+**What:** One-line hook — what does this solve?  
+**How:** SQL · Jupyter · Seaborn  
+**Result:** Accuracy / metric / impact achieved  
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 [Project Title](#)
+**What:** One-line hook — what does this solve?  
+**How:** NumPy · Matplotlib · (your stack)  
+**Result:** Accuracy / metric / impact achieved  
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=midnight-purple&hide_border=true"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff"/>
+</div>
 
-<!-- Snake Contribution Graph (enable via GitHub Actions — see note below) -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyagarg50/chaitanyagarg50/output/github-contribution-grid-snake-dark.svg" />
-</div> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4"/>
+</div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🌱 Currently
 
-- 🎓 B.Tech CSE (AI & ML) — GPA: **8.83/10** at SGT University
-- 🌍 German Language Proficiency — **B1 Level**
-- 📜 *(Add your Coursera/NPTEL/HackerRank certifications here)*
+```yaml
+status:       Actively seeking ML / AI internships
+institution:  SGT University, Gurugram (B.Tech CSE, AI & ML)
+gpa:          8.83 / 10
+
+learning:
+  - Transformers and attention mechanisms
+  - NLP with HuggingFace
+  - ML model deployment and MLOps basics
+
+reading:      "Hands-On Machine Learning — Aurélien Géron"
+side_project: "something brewing... 🚧"
+
+open_to:
+  - Internship opportunities (ML / Data Science / AI)
+  - Open source contributions
+  - Project collaborations
+  - Talking about language, ML, and everything in between
+```
 
 ---
 
 <div align="center">
-  <i>💼 Open to internship opportunities in ML, Data Science & AI · Let's build something great!</i>
-  <br/><br/>
-  <a href="mailto:chaitanyagarg50@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+**💼 Hire me · 🤝 Collaborate · ☕ Just say Hallo**
+
+<a href="mailto:chaitanyagarg50@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/chaitanyagarg50">
+  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+*"The best model is not the most complex one — it's the one that actually ships."*
+
 </div>
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
