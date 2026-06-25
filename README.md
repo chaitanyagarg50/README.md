@@ -13,9 +13,6 @@
 I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.83/10), passionate about building intelligent systems, data-driven products, and full-stack AI applications.
 
 - 🤖 Focused on **Machine Learning**, **Data Science**, and **AI-powered products**
-- 🏆 **Top 10** at the Sprint4Good AI Hackathon 2026 — IIT Delhi
-- 📄 Co-published research papers on **Gold Price** & **Real Estate Price Prediction**
-- 🌐 Deploying real-world apps using **React, FastAPI, and LLM APIs**
 - 🌍 Speak **English**, **Hindi**, and **German (B1)**
 
 ---
@@ -46,15 +43,6 @@ I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.8
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Top 10 of 100+ teams** — Sprint4Good AI Hackathon 2026, IIT Delhi
-- 🎯 **Selected** — Smart India Hackathon 2025 (Internal Round, SGT University)
-- 📄 **Co-published** two research papers at BITS-SGTU Conference (May 2025): *Gold Price Prediction* & *Real Estate Price Prediction*
-- 🎓 Industry-recognized certifications from **Coding Blocks** and **Samatrix.io**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -64,17 +52,6 @@ I'm a **B.Tech CSE (AI & ML)** student at **SGT University, Gurugram** (GPA: 8.8
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech CSE (AI & ML) | SGT University, Gurugram | 2024 – 2028 | GPA 8.83 / 10 |
-| CBSE Class 12 | GD Goenka Public School, Delhi | 2024 | 78% |
-| CBSE Class 10 | GD Goenka Public School, Delhi | 2022 | 94.6% |
-
----
-
 <p align="center">
   <i>Open to internships!</i><br/>
-  📬 <a href="mailto:chaitanyagarg50@gmail.com">chaitanyagarg50@gmail.com</a>
 </p>
