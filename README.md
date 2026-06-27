@@ -32,7 +32,7 @@
 
 I'm a **B.Tech CSE (AI & ML)** student.
 
-**🏛️ SGT University, Gurugram** — GPA **8.83 / 10**  
+**🏛️ SGT University, Gurugram**  
 **🎯 Seeking** — ML / Data Science / AI internship  
 **🌍 Languages** — · **German (B1)** · Hindi · English  
 **📬 Reach me** — chaitanyagarg50@gmail.com
