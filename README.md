@@ -1,127 +1,97 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" />
+# Hi 👋, I'm Chaitanya Garg
 
-# 👋 Hi, I'm Chaitanya Garg
+### 🚀 AI/ML Engineer • Data Scientist
 
-### AI • Machine Learning • Data Science • Analytics
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Student+%F0%9F%A4%96;Learning+Data+Science+%F0%9F%93%8A;Building+Projects+%F0%9F%9A%80;Open+to+Internships+%F0%9F%92%BC" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Building+Real+World+AI+Products;Computer+Vision+%7C+LLMs+%7C+Data+Science;Always+Learning+Something+New" />
 
 <br>
 
-<a href="mailto:chaitanyagarg50@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chaitanyagarg50">
-<img src="https://img.shields.io/github/followers/chaitanyagarg50?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge&color=blue"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chaitanyagarg50)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chaitanyagarg50)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:chaitanyagarg50@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<table>
-<tr>
+```python
+class ChaitanyaGarg():
 
-<td width="55%">
+    def __init__(self):
+        self.location = "Delhi, India"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.cgpa = "8.96/10"
 
-🎓 **B.Tech CSE (AI & ML)**  
-🏫 SGT University, Gurugram
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "LLMs",
+            "Data Science",
+            "Full Stack Development"
+        ]
 
-- 🤖 Machine Learning
-- 📊 Data Science
-- 💻 Analytics
-- 🌐 Web Development
-- 📚 Currently learning Deep Learning
-- 🌍 Languages: English • Hindi • German (B1)
-- 💼 Looking for Internship Opportunities
+    def currently_learning(self):
+        return [
+            "AI Agents",
+            "RAG",
+            "MLOps",
+            "Deep Learning"
+        ]
+```
 
-</td>
-
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+- 🎓 B.Tech CSE (AI & ML) @ **SGT University**
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
 </p>
 
-## AI / ML
+### AI / ML
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
 </p>
 
-## Web Development
+Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-## Tools
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -131,11 +101,21 @@
 
 ---
 
-# 🏆 Achievements
+# 🌍 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<a href="mailto:chaitanyagarg50@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/chaitanyagarg50">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/chaitanyagarg50">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </p>
 
@@ -143,10 +123,10 @@
 
 <div align="center">
 
-### 💡 "Code • Learn • Build • Repeat"
+### ⭐ Thanks for visiting my profile!
 
-✨ Open to AI/ML, Data Science, and Analytics internships.
+*"Building intelligent software that makes a difference."*
 
-<img src="./footer.svg" width="100%"/>
+![](https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge)
 
 </div>
