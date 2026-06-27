@@ -1,117 +1,112 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Chaitanya%20Garg&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20Products&descAlignY=57&descSize=18&descColor=c9b8ff" />
+<h1 align="center">Hey, I'm Chaitanya Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=a78bfa&center=true&vCenter=true&width=580&lines=B.Tech+(CSE)AI+%26+ML+%40+SGT+University+%E2%80%94+GPA%3A+8.83%2F10;Building+intelligent+systems+from+raw+data+%F0%9F%A7%A0;One+of+the+few+ML+engineers+who+speaks+Deutsch+%F0%9F%87%A9%F0%9F%87%AA;Actively+seeking+ML+%2F+Data+Science+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <b>CS Engineering (AI/ML) student @ SGT University · Data Science · Full-Stack · Multi-agent AI</b><br/>
+  Building things that are fast, smart, and actually useful.
 </p>
 
 <p align="center">
-  <a href="mailto:chaitanyagarg50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/chaitanyagarg50"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/chaitanyagarg50"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
+  <a href="mailto:chaitanyagarg50@gmail.com"><img src="https://img.shields.io/badge/Email-chaitanyagarg50%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/chaitanyagarg50"><img src="https://img.shields.io/badge/LinkedIn-chaitanyagarg50-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://github.com/chaitanyagarg50"><img src="https://img.shields.io/badge/GitHub-chaitanyagarg50-181717?style=flat-square&logo=github"/></a>
 </p>
 
 ---
 
-<!-- Signature element — unique multilingual identity -->
-```
-// My story in the languages I speak
+## 🧠 About Me
 
-/* Deutsch */   Ich baue KI-Systeme, die echte Probleme lösen.
-/* हिंदी  */   मैं डेटा से ऐसी कहानियाँ निकालता हूँ जो बदलाव लाएँ।
-/* English */   I turn messy data into decisions that make sense.
-```
-
----
-
-<table>
-<tr>
-<td valign="top" width="58%">
-
-## 🧑‍💻 About Me
-
-I'm a **B.Tech CSE (AI & ML)** student.
-
-**🏛️ SGT University, Gurugram**  
-**🎯 Seeking** — ML / Data Science / AI internship  
-**🌍 Languages** — · **German (B1)** · Hindi · English  
-**📬 Reach me** — chaitanyagarg50@gmail.com
-
-</td>
-<td valign="top" width="42%">
-
-## 📡 Signal Strength
-
-```text
-Python          ████████████  ⚡ Primary
-Data Analysis   ██████████░░  Strong
-Machine Learning████████░░░░  Growing
-SQL             ███████░░░░░  Solid
-Deep Learning   █████░░░░░░░  Exploring
-```
-
-</td>
-</tr>
-</table>
+- 🎓 **B.Tech CSE (AI/ML)** at SGT University, Gurugram — GPA **8.96 / 10**
+- 🤖 Passionate about **Machine Learning**, **Data Science**, and **AI-powered products**
+- 🏆 **Top 10** at Sprint4Good AI Hackathon 2026, IIT Delhi (100+ teams)
+- 📄 **Co-published 2 research papers** on price prediction at the BITS-SGTU Conference (May 2025)
+- 🌍 Speak **English**, **Hindi**, and **German (B1)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>SQL</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML5</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS3</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub></td>
-  </tr>
-</table>
+**Languages**
 
-**ML / Data Science:**&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**ML / Data Science**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-**On the radar:**&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Tools**
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=midnight-purple&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff"/>
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-<div align="center">
+## 🚀 Projects
 
-**💼 Hire me · 🤝 Collaborate · ☕ Just say Hallo**
+### 👟 [DRIP](https://drip-umber.vercel.app/) — AI Sneaker Stylist
+> *"Nike SNKRS meets a personal stylist AI"*
 
-<a href="mailto:chaitanyagarg50@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/chaitanyagarg50">
-  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+An AI-powered styling companion that builds outfits around **your** sneaker collection. Features a real-time sneaker database, a recommendation engine, computer-vision color scanning, and a **multi-agent LLM stylist** — packaged as a fast, installable PWA.
 
-</div>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+### 🎬 [Film Web App](https://film-gray.vercel.app/) — Movie Discovery
+A fan-built movie discovery app powered by the **TMDB API**, showcasing modern front-end design and API integration. *(Unofficial, non-commercial fan project.)*
+
+---
+
+### 💊 [MedScript AI](https://medai-ashen.vercel.app/) — Prescription Manager · [Blog](https://blog-livid-theta-67.vercel.app/)
+Securely scan, analyze, validate, and manage medical prescriptions. Protects sensitive patient data before passing it to AI services — privacy-first by design.
+
+---
+
+### 📚 [Course Platform](https://course-alpha-five.vercel.app/)
+A focused, expert-built 3-hour deep-dive. No filler — just frameworks, strategies, and execution playbooks that get results.
+
+---
+
+## 💼 Experience
+
+**British Airways — Data Science Job Simulation** *(Apr – May 2026)*
+- Scraped, cleaned, and analyzed large-scale customer review data to surface behavioral drivers of satisfaction and churn.
+- Ran multi-dimensional EDA identifying correlations between booking behavior and churn risk.
+- Built a high-accuracy predictive model to inform targeted customer acquisition and retention strategies.
+
+**Deloitte Australia — Python & ML Job Simulation** *(Jun – Jul 2025)*
+- Feature engineered with NumPy, SciPy, and Pandas; delivered visual narratives via Matplotlib and Seaborn.
+- Benchmarked 8+ ML models (SVM, Random Forest, K-Means) on precision, recall, and F1-score.
+- Optimized via k-fold cross-validation and Grid Search, building end-to-end pipelines simulating production-grade workflows.
+
+---
+
+## 🏆 Achievements
+
+| 🥇 | Top 10 of 100+ teams — **Sprint4Good AI Hackathon 2026, IIT Delhi** |
+|---|---|
+| 🏅 | Selected — **Smart India Hackathon 2025** internal round, SGT University |
+| 📜 | Industry certifications from **Coding Blocks** and **Samatrix.io** |
+| 📰 | Co-published research on **Gold Price & Real Estate Price Prediction** — BITS-SGTU Conference, May 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internships, collaborations, and anything that involves building cool things with AI & data.</i><br/>
+  📬 <a href="mailto:chaitanyagarg50@gmail.com">chaitanyagarg50@gmail.com</a>
+</p>
