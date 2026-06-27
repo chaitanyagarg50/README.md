@@ -40,15 +40,15 @@ chaitanya = {
 
 **Languages & Core**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
 
 **ML / Data Science**
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,numpy,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,numpy)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,jupyter,git,vercel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,jupyter,git)](https://skillicons.dev)
 
 </div>
 
@@ -61,7 +61,7 @@ chaitanya = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
