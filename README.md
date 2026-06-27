@@ -1,109 +1,113 @@
+```md
 <div align="center">
 
-# Hi 👋, I'm Chaitanya Garg
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=220&section=header&text=Chaitanya%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descAlignY=58"/>
 
-### 🚀 AI/ML Engineer • Data Scientist
+<h2>👋 Hi, I'm Chaitanya Garg</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Building+Real+World+AI+Products;Computer+Vision+%7C+LLMs+%7C+Data+Science;Always+Learning+Something+New" />
+<p>
+AI • Machine Learning • Computer Vision • Data Science
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+Products;Machine+Learning+Engineer;Computer+Vision+Developer;Always+Learning+New+Things"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chaitanyagarg50)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chaitanyagarg50)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:chaitanyagarg50@gmail.com)
+<a href="https://linkedin.com/in/chaitanyagarg50">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/chaitanyagarg50">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:chaitanyagarg50@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```python
-class ChaitanyaGarg():
+<img align="right" width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif"/>
 
-    def __init__(self):
-        self.location = "Delhi, India"
-        self.education = "B.Tech CSE (AI & ML)"
-        self.cgpa = "8.96/10"
+🎓 B.Tech in Computer Science (AI & ML)
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "LLMs",
-            "Data Science",
-            "Full Stack Development"
-        ]
+🤖 Passionate about Artificial Intelligence
 
-    def currently_learning(self):
-        return [
-            "AI Agents",
-            "RAG",
-            "MLOps",
-            "Deep Learning"
-        ]
-```
+💻 Building AI-powered products
 
-- 🎓 B.Tech CSE (AI & ML) @ **SGT University**
+📈 Interested in Data Science & Computer Vision
+
+🧠 Learning AI Agents, RAG & MLOps
+
+🌍 Delhi, India
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
-</p>
 
 ### AI / ML
 
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
 
 Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌍 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="mailto:chaitanyagarg50@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -117,16 +121,19 @@ Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent software that makes a difference."*
-
 ![](https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge)
 
+### ⭐ Thanks for visiting!
+
+*"Building intelligent software that solves real-world problems."*
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=120&section=footer"/>
+```
