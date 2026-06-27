@@ -6,7 +6,7 @@
 
 ### AI • Machine Learning • Data Science
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Products;Computer+Vision+%7C+LLMs+%7C+Data+Science;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Computer+Vision+%7C+LLMs+%7C+Data+Science;Always+Learning+New+Things"/>
 
 <br>
 
@@ -48,18 +48,8 @@ class Chaitanya:
             "Computer Vision",
             "LLMs",
             "Data Science",
-            "Backend Development"
         ]
 
-        self.currently_learning = [
-            "AI Agents",
-            "Deep Learning",
-            "RAG",
-            "MLOps"
-        ]
-
-    def motto(self):
-        return "Build. Learn. Ship. Repeat."
 ```
 
 ---
@@ -114,16 +104,6 @@ class Chaitanya:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
 # 📊 Coding Activity
 
 <div align="center">
@@ -163,12 +143,6 @@ class Chaitanya:
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br>
 
