@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:818cf8,100:06b6d4&height=230&section=header&text=Chaitanya%20Garg&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=B.Tech%20CSE%20%E2%80%A2%20AI%20%26%20ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Builder&descSize=19&descAlignY=64&descColor=c7d2fe" width="100%" />
+  <img src="./header.svg" width="100%" />
 </div>
 
 <br>
@@ -108,7 +108,5 @@ chaitanya = {
 *Open to internships, research collabs, and anything that involves shipping cool things with AI & data.*
 
 [![Email](https://img.shields.io/badge/Let's%20Connect-chaitanyagarg50%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:818cf8,100:6366f1&height=120&section=footer" width="100%" />
 
 </div>
