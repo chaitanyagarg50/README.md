@@ -49,54 +49,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 👟 [DRIP](https://drip-umber.vercel.app/) — AI Sneaker Stylist
-> *"Nike SNKRS meets a personal stylist AI"*
-
-An AI-powered styling companion that builds outfits around **your** sneaker collection. Features a real-time sneaker database, a recommendation engine, computer-vision color scanning, and a **multi-agent LLM stylist** — packaged as a fast, installable PWA.
-
----
-
-### 🎬 [Film Web App](https://film-gray.vercel.app/) — Movie Discovery
-A fan-built movie discovery app powered by the **TMDB API**, showcasing modern front-end design and API integration. *(Unofficial, non-commercial fan project.)*
-
----
-
-### 💊 [MedScript AI](https://medai-ashen.vercel.app/) — Prescription Manager · [Blog](https://blog-livid-theta-67.vercel.app/)
-Securely scan, analyze, validate, and manage medical prescriptions. Protects sensitive patient data before passing it to AI services — privacy-first by design.
-
----
-
-### 📚 [Course Platform](https://course-alpha-five.vercel.app/)
-A focused, expert-built 3-hour deep-dive. No filler — just frameworks, strategies, and execution playbooks that get results.
-
----
-
-## 💼 Experience
-
-**British Airways — Data Science Job Simulation** *(Apr – May 2026)*
-- Scraped, cleaned, and analyzed large-scale customer review data to surface behavioral drivers of satisfaction and churn.
-- Ran multi-dimensional EDA identifying correlations between booking behavior and churn risk.
-- Built a high-accuracy predictive model to inform targeted customer acquisition and retention strategies.
-
-**Deloitte Australia — Python & ML Job Simulation** *(Jun – Jul 2025)*
-- Feature engineered with NumPy, SciPy, and Pandas; delivered visual narratives via Matplotlib and Seaborn.
-- Benchmarked 8+ ML models (SVM, Random Forest, K-Means) on precision, recall, and F1-score.
-- Optimized via k-fold cross-validation and Grid Search, building end-to-end pipelines simulating production-grade workflows.
-
----
-
-## 🏆 Achievements
-
-| 🥇 | Top 10 of 100+ teams — **Sprint4Good AI Hackathon 2026, IIT Delhi** |
-|---|---|
-| 🏅 | Selected — **Smart India Hackathon 2025** internal round, SGT University |
-| 📜 | Industry certifications from **Coding Blocks** and **Samatrix.io** |
-| 📰 | Co-published research on **Gold Price & Real Estate Price Prediction** — BITS-SGTU Conference, May 2025 |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
