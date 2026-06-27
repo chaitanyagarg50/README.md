@@ -1,109 +1,152 @@
 <div align="center">
-  <img src="./header.svg" width="100%" />
+
+<img src="./header.svg" width="100%" />
+
+# 👋 Hi, I'm Chaitanya Garg
+
+### AI • Machine Learning • Data Science • Analytics
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Student+%F0%9F%A4%96;Learning+Data+Science+%F0%9F%93%8A;Building+Projects+%F0%9F%9A%80;Open+to+Internships+%F0%9F%92%BC" />
+
+<br>
+
+<a href="mailto:chaitanyagarg50@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chaitanyagarg50">
+<img src="https://img.shields.io/github/followers/chaitanyagarg50?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=for-the-badge&color=blue"/>
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&height=40&lines=Hallo!+Ich+bin+KI%2FML+Student+%F0%9F%A4%96;Namaste!+Main+analytics+seekh+raha+hoon+%F0%9F%99%8F;Hi!+I+am+learning+analytics+%E2%9C%A8" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="mailto:chaitanyagarg50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-chaitanyagarg50%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/chaitanyagarg50">
-    <img src="https://img.shields.io/github/followers/chaitanyagarg50?label=Follow&style=flat-square&color=236ad3&labelColor=1155ba&logo=github" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=flat-square&color=6272a4&label=Profile+Views" />
-</p>
 
 ---
 
-## 👋 About Me
+# 🚀 About Me
 
 <table>
 <tr>
-<td width="54%" valign="top">
 
-- 🎓 **SGT University, Gurugram** — B.Tech CSE (AI/ML)
-- 🤖 Focused on **Machine Learning & Data Science**
-- 🧪 Coursework: AI/ML · OOP · DBMS · Algorithms · OS · Networks
-- 🌍 German (B1) · Hindi · English
-- 📫 chaitanyagarg50@gmail.com
-- 💼 Open to **internships**
+<td width="55%">
+
+🎓 **B.Tech CSE (AI & ML)**  
+🏫 SGT University, Gurugram
+
+- 🤖 Machine Learning
+- 📊 Data Science
+- 💻 Analytics
+- 🌐 Web Development
+- 📚 Currently learning Deep Learning
+- 🌍 Languages: English • Hindi • German (B1)
+- 💼 Looking for Internship Opportunities
 
 </td>
-<td width="46%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
+## Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
-### 🤖 ML & Data Science
+## AI / ML
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
 </p>
 
-### 🌐 Web & Backend
+## Web Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask"/>
+
 </p>
 
-### 🔧 Tools & DevOps
+## Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=chaitanyagarg50&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyagarg50&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Activity
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=c0caf5&area=true&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
 
 <div align="center">
 
-  ✨ *Open to internships.*
+### 💡 "Code • Learn • Build • Repeat"
 
-  <br>
+✨ Open to AI/ML, Data Science, and Analytics internships.
 
-  <img src="./footer.svg" width="100%" />
+<img src="./footer.svg" width="100%"/>
 
 </div>
