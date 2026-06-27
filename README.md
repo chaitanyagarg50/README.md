@@ -40,7 +40,6 @@ class Chaitanya:
         self.education = {
             "University": "SGT University",
             "Degree": "B.Tech CSE (AI & ML)",
-            "CGPA": "8.96/10"
         }
 
         self.interests = [
@@ -62,14 +61,6 @@ class Chaitanya:
     def motto(self):
         return "Build. Learn. Ship. Repeat."
 ```
-
-<div align="center">
-
-| 🎓 Education | 💡 Focus | 🌱 Learning |
-|:------------:|:--------:|:-----------:|
-| B.Tech AI & ML | AI Products | AI Agents |
-
-</div>
 
 ---
 
