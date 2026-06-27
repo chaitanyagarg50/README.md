@@ -31,7 +31,7 @@
 - 🧪 Coursework: AI/ML · OOP · DBMS · Algorithms · OS · Networks
 - 🌍 German (B1) · Hindi · English
 - 📫 chaitanyagarg50@gmail.com
-- 💼 Open to **internships**, research collabs & cool AI projects
+- 💼 Open to **internships**
 
 </td>
 <td width="46%" align="center" valign="top">
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-  ✨ *Open to internships, research collabs, and anything that involves building cool things with AI & data.*
+  ✨ *Open to internships.*
 
   <br>
 
