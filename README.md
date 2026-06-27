@@ -2,67 +2,76 @@
   <img src="./header.svg" width="100%" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=620&height=54&lines=AI+%2F+ML+Engineer+%7C+CS+Student+%40+SGT+University;Machine+Learning+%E2%80%A2+Data+Science+%E2%80%A2+Full-Stack+AI" alt="Typing animation" />
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=818CF8&center=true&vCenter=true&width=520&lines=AI+%26+ML+engineer+in+progress+%F0%9F%A4%96;Data+Science+%7C+Full-Stack+AI+Apps;B.Tech+CSE+%40+SGT+University+%F0%9F%8E%93;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=chaitanyagarg50&color=6366f1&style=flat-square&label=profile+views)](https://github.com/chaitanyagarg50)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyagarg50)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyagarg50)
-
-</div>
+<p align="center">
+  <a href="mailto:chaitanyagarg50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chaitanyagarg50%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/chaitanyagarg50">
+    <img src="https://img.shields.io/github/followers/chaitanyagarg50?label=Follow&style=flat-square&color=236ad3&labelColor=1155ba&logo=github" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=chaitanyagarg50&style=flat-square&color=6272a4&label=Profile+Views" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-chaitanya = {
-    "university": "SGT University, Gurugram — B.Tech CSE (AI/ML)",
-    "gpa": "8.96 / 10",
-    "focus": ["Machine Learning", "Data Science", "Full-Stack AI Apps"],
-    "languages": ["Python", "Java", "SQL", "HTML/CSS"],
-    "spoken": ["English", "Hindi", "German (B1)"],
-    "currently": "Building AI-powered products & learning every day",
-}
-```
+<table>
+<tr>
+<td width="54%" valign="top">
+
+- 🎓 **SGT University, Gurugram** — B.Tech CSE (AI/ML)
+- 🤖 Focused on **Machine Learning & Data Science**
+- 🧪 Coursework: AI/ML · OOP · DBMS · Algorithms · OS · Networks
+- 🌍 English · Hindi · German (B1)
+- 📫 chaitanyagarg50@gmail.com
+- 💼 Open to **internships**, research collabs & cool AI projects
+
+</td>
+<td width="46%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 <div align="center">
-
-**Languages & Core**
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
-
-**ML / Data Science**
-
-[![My Skills](https://skillicons.dev/icons?i=sklearn,numpy)](https://skillicons.dev)
-
-**Tools & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,jupyter,git)](https://skillicons.dev)
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
-
+### 🤖 ML & Data Science
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### 🌐 Web & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs&theme=dark" />
+</div>
 
+### 🔧 Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
 </div>
 
 ---
@@ -70,25 +79,15 @@ chaitanya = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyagarg50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=chaitanyagarg50&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyagarg50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=chaitanyagarg50&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155" />
 </div>
 
----
-
-## 🏅 Trophies
+<br>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyagarg50&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
 </div>
 
 ---
@@ -96,17 +95,17 @@ chaitanya = {
 ## 📈 Activity
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&theme=tokyo-night&bg_color=transparent&color=818cf8&line=6366f1&point=c084fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyagarg50&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=c0caf5&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-*Open to internships, research collabs, and anything that involves shipping cool things with AI & data.*
+  ✨ *Open to internships, research collabs, and anything that involves building cool things with AI & data.*
 
-[![Email](https://img.shields.io/badge/Let's%20Connect-chaitanyagarg50%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyagarg50@gmail.com)
+  <br>
+
+  <img src="./footer.svg" width="100%" />
 
 </div>
